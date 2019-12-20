@@ -1,5 +1,5 @@
 # Data_Science
-Statistical based problem solved using Python
+Statistical problems solved using Python.
 
 
 Frequency Problem
