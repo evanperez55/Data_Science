@@ -2,7 +2,7 @@
 Statistical problems solved using Python.
 
 
-Frequency Problem
+##Frequency Problem
 
 (a) You have to process one file, see below, and create a histogram that 
 shows the number of occurences of the 2nd field in the file. 
@@ -27,7 +27,7 @@ The second field is the address being referenced: the address is a hexadecimal b
 
 
 
-Matrices Multiplication Problem
+##Matrices Multiplication Problem
 
 (a) Write a program that multiplies two rectangular matrices -- please no square matrices -- whose elements are randomly generated.
 You will have two versions of the program, 
